@@ -9,6 +9,7 @@ namespace BankTeller
             //Console.WriteLine("Hello World!");
             Teller teller = new Teller();
             teller.CustomerInfo();
+            
         }
     }
 }
